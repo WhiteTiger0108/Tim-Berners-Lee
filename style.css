@@ -1,0 +1,70 @@
+img{
+    height: 250px;
+    width: 200px; 
+    border-radius: 30px;
+margin-top: 50px;
+    margin-right: 470px; 
+}
+#TimBernersLee{
+    font-family: monospace;
+}
+
+#video1{
+ border: 50px; 
+    border-color: black;
+    border-style: solid;
+    border-radius: 40px; 
+}
+
+#video2{
+ border: 50px;
+       border-color: black;
+      border-style: solid;
+       border-radius: 40px; 
+}
+#me{
+   font-family: 'Patrick Hand', cursive; 
+}
+
+
+body {
+  text-align: center;
+}
+
+html { 
+background-color: azure;
+} 
+
+#welcome {
+     background-image: linear-gradient(#80D8FF, #FFD180);
+}
+    
+.links {
+    float: left;  
+    padding-top:10px; 
+    padding-left:16px; 
+    padding-right:15px; 
+    padding-bottom:10px; 
+}
+.links:hover{
+    background-color: gainsboro;
+} 
+
+.menu {
+    list-style: none;
+}
+
+.line {
+    background-color: black;
+    width: 80px; 
+    height: 7px;
+    margin: 3px auto; 
+}
+
+.articles:hover {
+    color: skyblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
